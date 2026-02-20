@@ -1,6 +1,5 @@
 # NeuroGen: SOTA Multimodal Transformer for Brain Tumor Classification + Radiogenomics
 
-![Medical AI](https://img.shields.io/badge/Domain-Neuro-Oncology%20AI-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Swin--ViT%20%2B%20CMA-orange)
 ![Radiogenomics](https://img.shields.io/badge/Radiogenomics-IDH%2C%20MGMT%2C%201p%2F19q-green)
 ![Uncertainty](https://img.shields.io/badge/Uncertainty-Bayesian%20AI-red)
